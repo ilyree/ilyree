@@ -1,6 +1,6 @@
 ### about me
 - cyber @ amex
-- alum @ rutgers university studying computer science and critical intelligence
+- former cs @ ru
 - interests: breaking windows and websites, and also fixing those breaks. 
 
 <p align="left">
