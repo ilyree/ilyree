@@ -1,7 +1,7 @@
 ### about me
 - cyber @ amex
 - former cs @ ru
-- interests: breaking windows and websites, and also fixing those breaks. 
+- interests: breaking windows and websites
 
 <p align="left">
   <a href="https://linkedin.com/in/rheasharma-cs" target="_blank">
