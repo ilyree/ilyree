@@ -1,7 +1,6 @@
 ### about me
-- senior @ rutgers university studying computer science and critical intelligence
 - cyber @ amex
-- president of the [rutgers cybersecurity club](https://github.com/rusec)
+- alum @ rutgers university studying computer science and critical intelligence
 - interests: breaking windows and websites, and also fixing those breaks. 
 
 <p align="left">
