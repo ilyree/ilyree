@@ -1,6 +1,5 @@
 ### about me
 - cyber @ amex
-- cs '26 @ ru
 - interests: breaking windows and websites
 
 <p align="left">
