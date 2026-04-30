@@ -1,6 +1,6 @@
 ### about me
 - cyber @ amex
-- interests: breaking windows and websites
+- i <3 breaking windows and websites
 
 <p align="left">
   <a href="https://linkedin.com/in/rheasharma-cs" target="_blank">
