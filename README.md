@@ -1,10 +1,1 @@
-### about me
-- cyber @ amex
-- i break windows and websites
-- ccdc red team 
-
-<p align="left">
-  <a href="https://linkedin.com/in/rheasharma-cs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+i break websites and windows 
